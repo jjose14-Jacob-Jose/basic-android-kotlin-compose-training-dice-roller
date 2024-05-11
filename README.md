@@ -1,5 +1,4 @@
-#### Android Basics with Compose
-### Unit  2: Building app UI
+#### Android Basics with Compose/Unit  2: Building app UI
 ## Add a button to an app
 This repo has been cloned as part of learning Kotlin on the Google course '[Android Basics with Compose](https://developer.android.com/courses/android-basics-compose/course)'
 
